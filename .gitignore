@@ -1,0 +1,5 @@
+auth_shirohine
+node_modules
+afk.json
+*.log
+.DS_Store
